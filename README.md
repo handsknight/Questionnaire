@@ -11,7 +11,7 @@
 2.	Database
 	1. Azure Cosmos DB NoSql
 
-3. Project Structure
+3. Project Structure 
 	Clean Architecture is used
 	The project contains three main Folders
 
