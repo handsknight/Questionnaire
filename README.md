@@ -10,6 +10,8 @@
 	
 2.	Database
 	1. Azure Cosmos DB NoSql
+    	2. All the connection strings, databases, containers are all in the appsetting.
+        3. To use this project and run successfully, please, change the cosmos setting in the appsetting to ypur either emulator in your local or your micrososoft cosmos credential 
 
 3. Project Structure 
 	Clean Architecture is used
