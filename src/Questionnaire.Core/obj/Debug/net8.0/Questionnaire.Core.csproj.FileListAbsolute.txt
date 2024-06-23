@@ -1,0 +1,12 @@
+C:\innercycle\Questionnaire\src\Questionnaire.Core\bin\Debug\net8.0\Questionnaire.Core.deps.json
+C:\innercycle\Questionnaire\src\Questionnaire.Core\bin\Debug\net8.0\Questionnaire.Core.dll
+C:\innercycle\Questionnaire\src\Questionnaire.Core\bin\Debug\net8.0\Questionnaire.Core.pdb
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.AssemblyInfoInputs.cache
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.AssemblyInfo.cs
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.csproj.CoreCompileInputs.cache
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.dll
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\refint\Questionnaire.Core.dll
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.pdb
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\ref\Questionnaire.Core.dll
+C:\innercycle\Questionnaire\src\Questionnaire.Core\obj\Debug\net8.0\Questionnaire.Core.csproj.AssemblyReference.cache
